@@ -1,0 +1,19 @@
+header img {
+	padding-top: .2em;
+	width: 200px;
+}
+
+header .menu ul {
+	text-align: center;
+	position: absolute;
+	top: .5em;
+	right: 20em;
+}
+
+header .menu li, header .menu a {
+	display: inline-block;
+	list-style-type: none;
+	text-decoration: none;
+	color: #0073cf;
+	padding-right: 1.5em;
+}
